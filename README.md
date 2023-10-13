@@ -1,4 +1,4 @@
-![logo](https://github.com/manju121212/manju121212/blob/main/Profile%20pic%20Github.png)
+![logo](https://github.com/manju121212/manju121212/assets/87922695/e9c7e084-6fbb-4c68-82a7-bd9a175628d0)
 <h1 align="center">Hi 👋, I'm Manjunath R Duggani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right"  alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
